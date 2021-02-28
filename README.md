@@ -1,4 +1,5 @@
 # vue-todo-list
+## A very simple to do list utilizing vue.
 
 ## Project setup
 ```
